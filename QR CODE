@@ -21,3 +21,5 @@ img = qr.make_image(fill="black", back_color="white")
 img.save("qrcode_sample.png")
 
 print("QR code generated and saved as 'qrcode_sample.png'")
+
+motherson Robis urappakam
